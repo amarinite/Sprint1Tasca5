@@ -12,11 +12,9 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) {
-
         if (args.length < 1) {
             System.out.println("You need to provide a directory");
         } else {
-
             String path = args[0];
             File dir = new File(path);
             long lastModified = dir.lastModified();
