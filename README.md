@@ -38,7 +38,7 @@ Programa com l'anterior que incorpora la funcionalitat de llegir un fitxer .txt 
 java Main.java directori_de_la_carpeta
 ```
 
-## Exercici 2
+## Exercici 5
 Programa que permet serialitzar i deserialitzar un objecte Java.
 ```sh
 java Main.java
